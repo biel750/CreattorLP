@@ -1,0 +1,126 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  height: auto;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 0;
+}
+.footer {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  width: 100%;
+  height: 168px;
+  max-width: 100%;
+  background: #f739d5;
+  z-index: 1;
+  min-width: 0;
+  flex-shrink: 0;
+  padding: 0px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .footer {
+    height: 148px;
+    flex-shrink: 0;
+  }
+}
+.freeBox {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 0px;
+  margin: 0px 0px 16px;
+}
+.link__eWb4 {
+  position: relative;
+  display: flex;
+  width: 56px;
+  align-items: center;
+  justify-content: center;
+  transition-property: opacity;
+  transition-duration: 0.3s;
+  transition-timing-function: linear;
+  flex-shrink: 0;
+  -webkit-transition-property: opacity;
+  -webkit-transition-timing-function: linear;
+  -webkit-transition-duration: 0.3s;
+}
+.img__a7BVs {
+  object-fit: cover;
+  max-width: 100%;
+  width: auto;
+}
+.img__a7BVs > picture > img {
+  object-fit: cover;
+}
+.img__a7BVs > .__wab_img-spacer > img {
+  object-fit: cover;
+}
+.link__abVmi {
+  position: relative;
+  display: flex;
+  width: 56px;
+  text-align: center;
+  transition-property: opacity;
+  transition-duration: 0.3s;
+  transition-timing-function: linear;
+  flex-shrink: 0;
+  -webkit-transition-property: opacity;
+  -webkit-transition-timing-function: linear;
+  -webkit-transition-duration: 0.3s;
+}
+.img__bhV6K {
+  object-fit: cover;
+  max-width: 100%;
+  margin: auto;
+}
+.img__bhV6K > picture > img {
+  object-fit: cover;
+}
+.img__bhV6K > .__wab_img-spacer > img {
+  object-fit: cover;
+}
+.link__os1Bt {
+  position: relative;
+  display: flex;
+  width: 56px;
+  transition-property: opacity;
+  transition-duration: 0.3s;
+  transition-timing-function: linear;
+  flex-shrink: 0;
+  -webkit-transition-property: opacity;
+  -webkit-transition-timing-function: linear;
+  -webkit-transition-duration: 0.3s;
+}
+.img__wJbr6 {
+  object-fit: cover;
+  max-width: 100%;
+  margin: auto;
+}
+.img__wJbr6 > picture > img {
+  object-fit: cover;
+}
+.img__wJbr6 > .__wab_img-spacer > img {
+  object-fit: cover;
+}
+.text {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+  color: #ffffff;
+  text-align: center;
+  min-width: 0;
+  padding: 0px 0px 30px;
+}
