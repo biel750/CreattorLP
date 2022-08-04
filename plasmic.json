@@ -7,7 +7,7 @@
   },
   "style": {
     "scheme": "css-modules",
-    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
   },
   "images": {
     "scheme": "public-files",
@@ -41,98 +41,6 @@
           "scheme": "blackbox",
           "componentType": "component",
           "plumeType": "button"
-        },
-        {
-          "id": "xE5Z1UpKBTiSg",
-          "name": "TextInput",
-          "type": "managed",
-          "projectId": "9aunZZ4t846y1592QqJ7VC",
-          "renderModuleFilePath": "plasmic/creattor/PlasmicTextInput.tsx",
-          "importSpec": {
-            "modulePath": "TextInput.tsx"
-          },
-          "cssFilePath": "plasmic/creattor/PlasmicTextInput.module.css",
-          "scheme": "blackbox",
-          "componentType": "component",
-          "plumeType": "text-input"
-        },
-        {
-          "id": "5qpfwc0ApNw8V",
-          "name": "Home",
-          "type": "managed",
-          "projectId": "9aunZZ4t846y1592QqJ7VC",
-          "renderModuleFilePath": "plasmic/creattor/PlasmicHome.tsx",
-          "importSpec": {
-            "modulePath": "../pages/index.tsx"
-          },
-          "cssFilePath": "plasmic/creattor/PlasmicHome.module.css",
-          "scheme": "blackbox",
-          "componentType": "page"
-        },
-        {
-          "id": "ltRi3su6P3_3j",
-          "name": "Contato",
-          "type": "managed",
-          "projectId": "9aunZZ4t846y1592QqJ7VC",
-          "renderModuleFilePath": "plasmic/creattor/PlasmicContato.tsx",
-          "importSpec": {
-            "modulePath": "../pages/contato.tsx"
-          },
-          "cssFilePath": "plasmic/creattor/PlasmicContato.module.css",
-          "scheme": "blackbox",
-          "componentType": "page"
-        },
-        {
-          "id": "9OL-MM7ld115y",
-          "name": "Footer",
-          "type": "managed",
-          "projectId": "9aunZZ4t846y1592QqJ7VC",
-          "renderModuleFilePath": "plasmic/creattor/PlasmicFooter.tsx",
-          "importSpec": {
-            "modulePath": "Footer.tsx"
-          },
-          "cssFilePath": "plasmic/creattor/PlasmicFooter.module.css",
-          "scheme": "blackbox",
-          "componentType": "component"
-        },
-        {
-          "id": "6DMO7FOqDSSQG",
-          "name": "Header",
-          "type": "managed",
-          "projectId": "9aunZZ4t846y1592QqJ7VC",
-          "renderModuleFilePath": "plasmic/creattor/PlasmicHeader.tsx",
-          "importSpec": {
-            "modulePath": "Header.tsx"
-          },
-          "cssFilePath": "plasmic/creattor/PlasmicHeader.module.css",
-          "scheme": "blackbox",
-          "componentType": "component"
-        },
-        {
-          "id": "5Vj00qjg5RSI4A",
-          "name": "SimpleInput",
-          "type": "managed",
-          "projectId": "9aunZZ4t846y1592QqJ7VC",
-          "renderModuleFilePath": "plasmic/creattor/PlasmicSimpleInput.tsx",
-          "importSpec": {
-            "modulePath": "SimpleInput.tsx"
-          },
-          "cssFilePath": "plasmic/creattor/PlasmicSimpleInput.module.css",
-          "scheme": "blackbox",
-          "componentType": "component"
-        },
-        {
-          "id": "vaj-9rOxoU0Ehi",
-          "name": "SimpleTextarea",
-          "type": "managed",
-          "projectId": "9aunZZ4t846y1592QqJ7VC",
-          "renderModuleFilePath": "plasmic/creattor/PlasmicSimpleTextarea.tsx",
-          "importSpec": {
-            "modulePath": "SimpleTextarea.tsx"
-          },
-          "cssFilePath": "plasmic/creattor/PlasmicSimpleTextarea.module.css",
-          "scheme": "blackbox",
-          "componentType": "component"
         },
         {
           "id": "lEqnajZCdK",
